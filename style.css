@@ -16,7 +16,8 @@ h3 {
 	font-size: 30px;	
 	text-decoration: underline;
 	font-family: Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;
-	margin-bottom: 200px;
+	margin-bottom: -10px;
+	
 
 
 }
@@ -25,7 +26,9 @@ h4{
 	font-size: 30px;	
 	text-decoration: underline;
 	font-family: Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;	
-	margin-bottom: 150px;
+	margin-bottom :-10px ;
+	margin-top: 25px;
+	
 }
 	
 h5 {
@@ -33,7 +36,8 @@ h5 {
 	font-size: 30px;	
 	text-decoration: underline;
 	font-family: Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;
-	margin-bottom: 95px;
+	margin-bottom: -8px;
+	margin-top: 15px;
 	}
 
 .tête {
@@ -66,15 +70,17 @@ h5 {
 	width: 300px;
 	margin-left: 30px;
 	margin-bottom:  100px;
+	float:left;
 
-	display: inline-block;
 
+	
 }
 
 .Info {
 
 	width: 300px;
-	display: inline-block;
+	float :left;
+	
 
 	
 }
@@ -82,6 +88,7 @@ h5 {
 .Musique {
 	
 	width: 300px;
+	float :left;
 	
-	display: inline-block;
+	
 }
