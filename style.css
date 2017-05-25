@@ -1,0 +1,87 @@
+body {
+	background: linear-gradient(-180deg,#249990,#BEE6E7);
+}
+
+
+h1,h2{
+	color: #052A45;
+	font-size: 30px;
+	font-family: Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;
+	margin-left: 25px ;
+	margin-bottom: -15px;
+}
+
+h3 {
+	color: #052A45;
+	font-size: 30px;	
+	text-decoration: underline;
+	font-family: Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;
+	margin-bottom: 200px;
+
+
+}
+h4{
+	color: #052A45;
+	font-size: 30px;	
+	text-decoration: underline;
+	font-family: Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;	
+	margin-bottom: 150px;
+}
+	
+h5 {
+	color: #052A45;
+	font-size: 30px;	
+	text-decoration: underline;
+	font-family: Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;
+	margin-bottom: 95px;
+	}
+
+.tête {
+	text-align: center;
+	font-size: 70px ;
+	border: 5px black outset;
+	border-left: -10px;
+	border-right: -3px;
+	font-weight:bold;
+	text-shadow:
+        1px -1px 0 ,
+        -1px 2px 1px #767474,
+        -2px 4px 1px ,
+        -3px 6px 1px ,
+        -4px 8px 1px ,
+        -5px 10px 1px #949392,
+        -6px 12px 1px #9e9c9c,
+        -7px 14px 1px ,
+        -8px 16px 1px #b2b1b0,
+        -9px 18px 1px #bcbbba,
+        -10px 20px 1px ,
+        -11px 22px 1px #cfcdcd,
+        -12px 24px 1px #d8d6d5,
+        -13px 26px 1px #dfdddc,
+        -14px 28px 1px ;
+	}
+
+.Langues {
+
+	width: 300px;
+	margin-left: 30px;
+	margin-bottom:  100px;
+
+	display: inline-block;
+
+}
+
+.Info {
+
+	width: 300px;
+	display: inline-block;
+
+	
+}
+
+.Musique {
+	
+	width: 300px;
+	
+	display: inline-block;
+}
