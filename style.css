@@ -1,0 +1,59 @@
+body {
+	background: linear-gradient(-180deg,#249990,#BEE6E7);
+}
+.tête {
+	text-align: center;
+	font-size: 70px ;
+	border: 5px black outset;
+	border-left: -10px;
+	border-right: -3px;
+	font-weight:bold;
+	text-shadow:
+        1px -1px 0 ,
+        -1px 2px 1px #767474,
+        -2px 4px 1px ,
+        -3px 6px 1px ,
+        -4px 8px 1px ,
+        -5px 10px 1px #949392,
+        -6px 12px 1px #9e9c9c,
+        -7px 14px 1px ,
+        -8px 16px 1px #b2b1b0,
+        -9px 18px 1px #bcbbba,
+        -10px 20px 1px ,
+        -11px 22px 1px #cfcdcd,
+        -12px 24px 1px #d8d6d5,
+        -13px 26px 1px #dfdddc,
+        -14px 28px 1px ;
+	}
+
+h1,h2{
+	color: #052A45;
+	font-size: 30px;
+	font-family: Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;
+	margin-left: 25px ;
+	margin-bottom: -15px;
+}
+
+h3,h4,h5{
+	color: #052A45;
+	font-size: 30px;	
+	text-decoration: underline;
+	margin-left: 25px;
+	margin-top: -5px;
+	font-family: Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;
+}
+
+.Langues {
+	margin-left: 35px;
+	margin-top: -25px;
+}
+
+.Info {
+	margin-left: 35px;
+	margin-top: -32px;
+}
+
+.Musique {
+	margin-left: 35px;
+	margin-top: -38px;
+}
